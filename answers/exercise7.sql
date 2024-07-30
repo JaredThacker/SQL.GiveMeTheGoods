@@ -1,0 +1,1 @@
+select * from courses where CreditHours between 10 and 20
